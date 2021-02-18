@@ -1,18 +1,18 @@
 ### Hi there 👋 my name is Gaëtan Schwartz !
 
-### 🔭 I’m currently working on ...
+#### 🔭 I’m currently working on ...
 -  a mobile transport app that I will probably open-source at some point.
 
-### 💬 Ask me about ...
+#### 💬 Ask me about ...
 - what I'm doing right now !
 
-### 📫 How to reach me 
+#### 📫 How to reach me 
  🐦 [@gaetschwartz](https://twitter.com/gaetschwartz) on Twitter
 
-### ⚡ Fun facts
+#### ⚡ Fun facts
 - I love Flutter
 
-### 😄 Pronouns:
+#### 😄 Pronouns:
 he/him
 
 
