@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 my name is Gaëtan Schwartz !
 
 ### 🔭 I’m currently working on ...
 -  a mobile transport app that I will probably open-source at some point.
