@@ -15,5 +15,7 @@
 #### 😄 Pronouns:
 he/him
 
+![Gaëtan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaetschwartz&count_private=true)
+
 
 
