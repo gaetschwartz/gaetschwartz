@@ -7,7 +7,7 @@
 - what I'm doing right now !
 
 ### 📫 How to reach me 
-🐦 [@gaetschwartz](https://twitter.com/gaetschwartz) on Twitter
+ 🐦 [@gaetschwartz](https://twitter.com/gaetschwartz) on Twitter
 
 ### ⚡ Fun facts
 - I love Flutter
