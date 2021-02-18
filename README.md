@@ -12,8 +12,8 @@
 - [@gaetschwartz](https://twitter.com/gaetschwartz) on Twitter 🐦
 
 #### ⚡ Fun facts
-- I love Flutter
+- I love coding so much that I oftentimes forget to sleep 😅
 
-😄 Pronouns: *he/him*
+😄 **Pronouns**: he/him
 
 ![Gaëtan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaetschwartz&count_private=true)
