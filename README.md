@@ -1,8 +1,8 @@
 ### Hi there 👋 my name is Gaëtan Schwartz !
 
 #### 🔭 I’m currently working on ...
+- An [open-source mobile transport app](https://github.com/gaetschwartz/swift_travel) ! You can try the beta at https://travel.gaetanschwartz.com
 - Improving my Flutter skills
-- A mobile transport app that I will probably open-source at some point. You can try the beta at https://travel.gaetanschwartz.com
 - Trying to improve everyone's life by coding
 
 #### 💬 Ask me about ...
