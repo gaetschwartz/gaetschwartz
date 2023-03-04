@@ -1,5 +1,4 @@
 ## Hi there 👋 my name is Gaëtan Schwartz !
-😄 **Pronouns**: he/him
 
 ### 🔭 I’m currently working on ...
 
